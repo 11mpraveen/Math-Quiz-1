@@ -18,8 +18,11 @@ button{
     border-style: double;
 }
 
-div{
+.login_1,.login_2{
+    background: lightcoral;
+    color: white;
     text-align: center;
+    float: none;
 }
 
 h3{
